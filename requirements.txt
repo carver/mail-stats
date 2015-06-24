@@ -1,1 +1,2 @@
 git+git://github.com/charlierguo/gmail.git@4626823d3fb
+requests
